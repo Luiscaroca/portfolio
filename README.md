@@ -1,19 +1,13 @@
-# portfolio
+# Portafolio Luis Caroca
 
-## Project setup
-```
-npm install
-```
+<p align="center">
+  <img src="src/assets/LC_logo.png" alt="Logo" width="40%"/>
+</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Descripción
+Este repositorio busca funcionar como portafolio de desarrollo y presentación personal, con la intención de presentar los conocimientos y tecnologías que maneja el desarrollador.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Tecnologías utilizadas
++ HTML
++ Bootstrap v5
++ Vue3
