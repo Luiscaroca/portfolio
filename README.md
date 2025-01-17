@@ -1,7 +1,7 @@
 # Portafolio Luis Caroca
 
 <p align="center">
-  <img src="src/assets/LC_logo.png" alt="Logo" width="40%"/>
+  <img src="src/assets/LC_logo.png" alt="Logo" width="30%"/>
 </p>
 
 ## Descripción
