@@ -1,6 +1,14 @@
 <template>
   <div class="container text-center">
     <div class="row justify-content-end">
+      <div class="col-3">
+        <img
+          class="img-fluid"
+          alt="Programmer SVG"
+          src="../assets/Programmer_SVG.png"
+          height="300"
+        />
+      </div>
       <div class="col-9">
         <div
           class="accordion accordion-flush"
