@@ -29,7 +29,7 @@
             </h2>
             <div
               id="flush-collapseOne"
-              class="accordion-collapse collapse"
+              class="accordion-collapse collapse show"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body">
