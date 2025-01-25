@@ -25,7 +25,7 @@
             <a
               class="btn btn-floating m-1"
               style="background-color: #dd4b39"
-              href="#!"
+              href="mailto:lj.caroca@gmail.com"
               role="button"
               ><font-awesome-icon
                 :icon="['fab', 'google']"
@@ -36,7 +36,8 @@
             <a
               class="btn btn-floating m-1"
               style="background-color: #0082ca"
-              href="#!"
+              target="_blank"
+              href="https://www.linkedin.com/in/luis-joaquín-caroca-araya-459a1b1b3/"
               role="button"
               ><font-awesome-icon
                 :icon="['fab', 'linkedin-in']"
@@ -47,7 +48,8 @@
             <a
               class="btn btn-floating m-1"
               style="background-color: #333333"
-              href="#!"
+              target="_blank"
+              href="https://github.com/Luiscaroca"
               role="button"
               ><font-awesome-icon
                 :icon="['fab', 'github']"
@@ -58,7 +60,8 @@
             <a
               class="btn btn-floating m-1"
               style="background-color: #ac2bac"
-              href="#!"
+              target="_blank"
+              href="https://www.instagram.com/lj.caroca/"
               role="button"
               ><font-awesome-icon
                 :icon="['fab', 'instagram']"
