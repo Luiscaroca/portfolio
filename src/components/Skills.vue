@@ -1,7 +1,7 @@
 <template>
   <div class="container text-center mt-4">
     <div class="row justify-content-center">
-      <div class="col-7">
+      <div class="col-7 mt-4">
         <h3>Habilidades blandas</h3>
         <small class="row justify-content-start mt-2">Comunicación</small>
         <div
