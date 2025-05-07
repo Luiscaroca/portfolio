@@ -2,7 +2,13 @@
   <div id="nav">
     <Header />
 
-    <router-view />
+    <router-view v-slot="{ Component }">
+      <Transition
+        name="page-opacity"
+        mode="out-in"
+      >
+        <component :is="Component" /></Transition
+    ></router-view>
 
     <Footer />
   </div>
@@ -24,6 +30,16 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+
+.page-opacity-enter-active,
+.page-opacity-leave-active {
+  transition: 400ms ease all;
+}
+
+.page-opacity-enter-from,
+.page-opacity-leave-to {
+  opacity: 0;
 }
 </style>
 

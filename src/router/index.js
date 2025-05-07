@@ -28,6 +28,14 @@ const routes = [
       title: "Luis Caroca - Proyectos",
     },
   },
+  {
+    path: "/:pathMatch(.*)*",
+    name: "not_found",
+    component: Home,
+    meta: {
+      title: "Luis Caroca - Inicio",
+    },
+  },
 ];
 
 const router = createRouter({

@@ -13,7 +13,7 @@
                 Universidad de los Andes
               </div>
               <span class="badge text-bg-success rounded-pill"
-                >2024 - Presente</span
+                >2024 - 2025</span
               >
             </li>
             <li
