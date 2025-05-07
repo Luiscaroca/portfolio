@@ -31,7 +31,6 @@
               <li>Python</li>
               <li>C</li>
               <li>C#</li>
-              <!-- Puedes eliminar uno de los "Python" si es duplicado -->
             </ul>
           </div>
           <div class="col-md-6">
