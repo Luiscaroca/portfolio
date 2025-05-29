@@ -40,7 +40,7 @@
           <h5 class="card-title">Level Up Estampados</h5>
           <p class="card-text">Sitio web para Level Up Estampados.</p>
           <a
-            href="#"
+            href="/projects"
             class="btn btn-primary mt-auto text-white"
             >Ingresar al sitio</a
           >
